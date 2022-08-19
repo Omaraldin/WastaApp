@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="150dp"
+    android:layout_height="230dp"
+    android:layout_margin="5dp"
+    android:clickable="true"
+    android:elevation="15dp"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    app:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:contentDescription="@null"
+            android:padding="5dp"
+            android:src="@drawable/restaurant_image_placeholder" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:fontFamily="@font/neosansarabic"
+            android:gravity="center"
+            android:text=""
+            android:textColor="@color/gray_600"
+            android:textSize="20sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <RatingBar
+                android:id="@+id/rating"
+                style="?android:ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+
+                android:rating="0" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

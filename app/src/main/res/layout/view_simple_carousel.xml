@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/load_error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:fontFamily="@font/neosansarabic"
+        android:text="@string/load_fail"
+
+        android:textColor="@color/error"
+
+        android:textSize="11sp"
+        android:visibility="invisible" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </androidx.viewpager2.widget.ViewPager2>
+
+
+        <LinearLayout
+            android:id="@+id/pagination"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/pager"
+            android:layout_marginBottom="15dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="5dp" />
+    </RelativeLayout>
+
+</LinearLayout>

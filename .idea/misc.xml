@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable/carousel_placeholder.xml" value="0.11041666666666666" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable/category_image_placeholder.xml" value="0.15462962962962962" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10989583333333333" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable/ic_money_off.xml" value="0.10989583333333333" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable/restaurant_image_placeholder.xml" value="0.11145833333333334" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable/restuarant_image_placeholder.xml" value="0.15462962962962962" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/drawable/slider_dot.xml" value="0.10989583333333333" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout-v28/view_top_restuarant_item.xml" value="0.2" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/actionbar.xml" value="0.33" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/fragment_category_item.xml" value="0.25" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/fragment_category_list.xml" value="0.1" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/fragment_category_list_item.xml" value="0.18" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/fragment_category_list_view.xml" value="0.1" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/sample_my_view.xml" value="0.1" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_categories_list.xml" value="0.1" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_category_item.xml" value="0.33" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_category_list.xml" value="0.22407407407407406" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_simple_carousel.xml" value="0.1" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_simple_carousel_item.xml" value="0.1" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_top_restaurant_item.xml" value="0.22" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_top_restaurants.xml" value="0.2" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_top_restaurants_list.xml" value="0.2" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_top_restuarant_item.xml" value="0.5" />
+        <entry key="..\:/Mobile/WastaApp/app/src/main/res/layout/view_topbar.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

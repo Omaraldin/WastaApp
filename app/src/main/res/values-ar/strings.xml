@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WastaMarket</string>
+
+    <string name="categories">الأقسام</string>
+    <string name="top_restaurants">المطاعم المميزة</string>
+
+    <string name="connection_error">لم يتمكن الوصول إلى شبكة الإنترنت.</string>
+    <string name="load_fail">(فشل التحميل، اسحب للأسفل لإعادة التحميل)</string>
+
+    <string name="home_button">الرئيسية</string>
+    <string name="sale_button">العروض</string>
+    <string name="cart_button">السلة</string>
+    <string name="menu_button">المزيد</string>
+</resources>
